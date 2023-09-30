@@ -1,0 +1,32 @@
+input#search{
+    width: 260px;
+    border: 1px solid black;
+    display: 9px 4px 9px 40px;
+    background: transparent url(file:///C:/Users/hp/Downloads/icons8-search.svg) no-repeat 13px;
+    padding: 10px;
+    border-radius: 15px;
+    padding-left: 50px;
+    padding-right: 500px;
+   
+    
+}
+
+.SearchBar{
+    position: absolute;
+    top: 255px;
+    left: 325px;
+    height: 30px;
+    width: 50px;
+}
+
+.Gimage{
+    position: absolute;
+    top: 145px;
+    left: 575px;
+}
+
+#FL{
+    left: 575px;
+    top: 456px;
+    
+}
